@@ -1,2 +1,2 @@
-# angular-challange
-My first angula project
+# angular-challenge
+My first angular project
